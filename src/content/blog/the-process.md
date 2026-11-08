@@ -1,6 +1,7 @@
 ---
 title: "The Process"
 description: 'Diary Entry'
+heroImage: '../../assets/eggs.jpg'
 pubDate: '2026-08-21'
 ---
 

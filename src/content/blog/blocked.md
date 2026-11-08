@@ -1,6 +1,7 @@
 ---
 title: "Blocked By"
 description: 'Diary Entry'
+heroImage: '../../assets/crow.jpg'
 pubDate: '2026-09-14'
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Blues for Gary"
 description: 'Diary Entry'
+heroImage: '../../assets/sky.jpg'
 pubDate: '2026-08-24'
 ---
 

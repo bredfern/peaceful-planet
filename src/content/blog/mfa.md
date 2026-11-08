@@ -1,6 +1,7 @@
 ---
-title: "Conversation with an Ai Trained in Marxism"
+title: "Ai Trained in Marxism"
 description: 'Diary Entry'
+heroImage: '../../assets/flower.jpg'
 pubDate: '2026-09-13'
 ---
 

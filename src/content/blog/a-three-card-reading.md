@@ -1,6 +1,7 @@
 ---
 title: "A Three Card Reading"
 description: 'Diary Entry'
+heroImage: '../../assets/bug.jpg'
 pubDate: '2026-08-24'
 ---
 

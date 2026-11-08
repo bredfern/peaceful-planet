@@ -1,6 +1,7 @@
 ---
 title: "Next Three Months"
 description: 'Diary Entry'
+heroImage: '../../assets/hangedman.jpg'
 pubDate: '2026-08-28'
 ---
 

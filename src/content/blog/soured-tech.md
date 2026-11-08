@@ -1,6 +1,7 @@
 ---
 title: "Soured Tech"
 description: 'Diary Entry'
+heroImage: '../../assets/ring.jpg'
 pubDate: '2026-09-12'
 ---
 
