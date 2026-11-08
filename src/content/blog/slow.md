@@ -1,7 +1,8 @@
-+++
-title = "The Great Slowdown"
-date = 2024-08-17
-+++
+---
+title: "The Great Slowdown"
+description: 'Diary Entry'
+pubDate: '2024-08-17'
+---
 
 Its been two years since the economy has been able to provide for humans in Southern California.
 

@@ -1,7 +1,8 @@
-+++
-title="Blocked By"
-date=2026-09-14
-+++
+---
+title: "Blocked By"
+description: 'Diary Entry'
+pubDate: '2026-09-14'
+---
 
 So the nice people in the Republican party have decided to do everything they can to effectively genocide roughly 200 million humans in the US. Its even said they want to target anyone who has a net worth of less than 100 million.
 

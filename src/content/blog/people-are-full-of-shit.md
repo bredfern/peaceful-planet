@@ -1,7 +1,8 @@
-+++
-title = "People are full of shit"
-date = 1991-06-03
-+++
+---
+title: "People are full of shit"
+description: 'Diary Entry'
+pubDate: '1991-06-03'
+---
 
 Everybody is so full
 

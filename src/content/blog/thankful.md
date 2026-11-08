@@ -1,7 +1,8 @@
-+++
-title = "Thankful"
-date = 1986-11-27
-+++
+---
+title: "Thankful"
+description: 'Diary Entry'
+pubDate: '1986-11-27'
+---
 
 Today was a great Thanksgiving, much better than last year. I remember when I had the flat top, last Thanksgiving we were at Aunt Doris and Uncle Godfrey's, (God rest his soul) turkey. We ate gross turkey for lunch and poor quality mexican food for dinner. Then we watched Rocky IV.
 

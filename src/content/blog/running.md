@@ -1,7 +1,8 @@
-+++
-title = "Running in Place"
-date = 2020-04-26
-+++
+---
+title: "Running in Place"
+description: 'Diary Entry'
+pubDate: '2020-04-26'
+---
 
 The vulture wings high
 

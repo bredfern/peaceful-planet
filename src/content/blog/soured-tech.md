@@ -1,7 +1,8 @@
-+++
-title = "Soured Tech"
-date = 2026-09-12
-+++
+---
+title: "Soured Tech"
+description: 'Diary Entry'
+pubDate: '2026-09-12'
+---
 
 2022 was the year that tech went sour.
 

@@ -1,7 +1,8 @@
-+++
-title = "Riden"
-date = 2025-01-16
-+++
+---
+title: "Riden"
+description: 'Diary Entry'
+pubDate: '2025-01-16'
+---
 
 \[Verse 1\] He's the one who gets caught up in the chaos The one I won't
 forget The one I'm going to teach you about The one I'm going to teach

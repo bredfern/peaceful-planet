@@ -1,7 +1,8 @@
-+++
-title = "The Children's Song"
-date = 1990-12-06
-+++
+---
+title: "The Children's Song"
+description: 'Diary Entry'
+pubDate: '1990-12-06'
+---
 
 I can hear a thunder
 

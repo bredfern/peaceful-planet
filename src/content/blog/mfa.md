@@ -1,7 +1,8 @@
-+++
-title="Conversation with an Ai Trained in Marxism"
-date=2026-09-13
-+++
+---
+title: "Conversation with an Ai Trained in Marxism"
+description: 'Diary Entry'
+pubDate: '2026-09-13'
+---
 
 Your question cuts to the heart of how class rule actually works — not just through police and courts, but through the organization of ideas. The answer is that the ruling class gets away with treating poverty as a crime because it controls not only the means of production but the means of *explanation*. It has built an entire ideological apparatus whose function is to invert cause and effect: to present what the system does to you as something you have done to yourself.
 

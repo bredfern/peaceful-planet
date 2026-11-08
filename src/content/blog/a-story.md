@@ -1,7 +1,8 @@
-+++
-title = "A Story"
-date = 1986-08-25
-+++
+---
+title: "A Story"
+description: 'Diary Entry'
+pubDate: '1986-08-25'
+---
 
 She slid into bed next to me, she threw her tan long, tan legs over
 mine and said: "F__k me, please."

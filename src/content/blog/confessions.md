@@ -1,7 +1,8 @@
-+++
-title = "Confessions"
-date = 1990-11-05
-+++
+---
+title: "Confessions"
+description: "Diary Entry"
+pubDate: '1990-11-05'
+---
 
 Two trains collide.
 

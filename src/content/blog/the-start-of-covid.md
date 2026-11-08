@@ -1,7 +1,8 @@
-+++
-title = "The Start of Covid"
-date = 2020-03-15
-+++
+---
+title: "The Start of Covid"
+description: 'Diary Entry'
+pubDate: '2020-03-15'
+---
 
 Having been thrown out of work found myself home watching that very stable genius downplay the disaster pretnding somehow positive thinking alone could work by a miracle to disperse the plaugue.
 

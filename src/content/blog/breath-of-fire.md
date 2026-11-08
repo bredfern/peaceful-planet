@@ -1,7 +1,8 @@
-+++
-title = "Breath of Fire"
-date = 2005-03-04
-+++
+---
+title: "Breath of Fire"
+description: 'Diary Entry'
+pubDate: '2005-03-04'
+---
 
 Evening 8:30pm breath of fire, HUM I HUM mantra
 

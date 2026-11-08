@@ -1,8 +1,8 @@
-
-+++
-title = "For French Girls"
-date = 1991-03-12
-+++
+---
+title: "For French Girls"
+description: 'Diary Entry'
+pubDate: '1991-03-12'
+---
 
 Your tongues are turned upside-down, but somehow I'm still compelled by your ironwood black impossibly curled hair, spirals and spirals that shake nervously under your foreign laugh.
 

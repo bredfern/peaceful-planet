@@ -1,7 +1,8 @@
-+++
-title = "Pain"
-date = 2023-08-30
-+++
+---
+title: "Pain"
+description: 'Diary Entry'
+pubDate: '2023-08-30'
+---
 
 On the one hand being severed from healthcare access to punish me for being 50+ is some brutal pain, its not easy to find work until I can complete my certifications for the medical field.
 

@@ -1,7 +1,8 @@
-+++
-title = "Function"
-date = 2026-10-22
-+++
+---
+title: "Function"
+description: 'Diary Entry'
+pubDate: '2026-10-22'
+---
 
 A swarm of highly venemous spiders
 

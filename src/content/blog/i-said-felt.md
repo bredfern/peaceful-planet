@@ -1,7 +1,8 @@
-+++
-title = "I Said Felt"
-date = 1990-09-20
-+++
+---
+title: "I Said Felt"
+description: 'Diary Entry'
+pubDate: '1990-09-20'
+---
 
 Hipster said f_ck built up give an apology get he said
 

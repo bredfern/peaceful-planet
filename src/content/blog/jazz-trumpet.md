@@ -1,22 +1,15 @@
-+++
-title = "Jazz Trumpet"
-date = 1990-09-10
-+++
+---
+title: "Jazz Trumpet"
+description: 'Diary Entry'
+pubDate: '1990-09-10'
+---
 
-A jazz trumpet played
+A jazz trumpet played at 3:00 AM on Tuesday,
 
-at 3:00 AM on Tuesday,
+and as it rocketed in, & the greatest version
 
-and as it rocketed in,
+of Amazing Grace known in trumpet history,
 
-& the greatest version
-
-of Amazing Grace known
-
-in trumpet history,
-
-someone pulled its
-
-stopper and let it
+someone pulled its stopper and let it
 
 sink down the drain.

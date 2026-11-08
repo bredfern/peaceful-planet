@@ -1,7 +1,8 @@
-+++
-title = "Rosarita of Medjugorje"
-date = 1990-11-21
-+++
+---
+title: "Rosarita of Medjugorje"
+description: 'Diary Entry'
+pubDate: '1990-11-21'
+---
 
 Her Haiku about men:
 

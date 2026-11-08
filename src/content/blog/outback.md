@@ -1,7 +1,8 @@
-+++
-title = "Outback"
-date = 1986-09-03
-+++
+---
+title: "Outback"
+description: 'Diary Entry'
+pubDate: '1986-09-03'
+---
 
 I had a dream that I was camping in the Australian Outback with my scout troop and a girl scout troop, all the girl scouts were real good looking, I had a friend who was an aborigine who was lost from his tribe so that night I tried to help him, until I was caught by the scouts who thought I wanted to go and make-out with one of the girl scouts.
 

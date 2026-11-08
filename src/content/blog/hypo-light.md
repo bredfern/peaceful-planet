@@ -1,7 +1,8 @@
-+++
-title = "Blinded"
-date = 2025-01-28
-+++
+---
+title: "Blinded"
+description: 'Diary Entry'
+pubDate: '2025-01-28'
+---
 
 Staring blinded into hypodermic lights 
 Deers stare back 

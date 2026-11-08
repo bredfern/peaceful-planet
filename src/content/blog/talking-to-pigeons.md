@@ -1,7 +1,8 @@
-+++
-title = "Talking to Pigeons"
-date = 1986-09-05
-+++
+---
+title: "Talking to Pigeons"
+description: 'Diary Entry'
+pubDate: '1986-09-05'
+---
 
 One day after our class oceanography trip out to the wharf, we encountered a strange old man who was calling the pigeons "Little Bums", he kept disappearing and then showing up again – like he did when we had to leave, but then he popped up in the bathroom standing next to us using the urinal next to us. 
 

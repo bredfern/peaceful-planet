@@ -1,7 +1,8 @@
-+++
-title = "The World Exploder 10x"
-date = 1990-09-10
-+++
+---
+title: "The World Exploder 10x"
+description: 'Diary Entry'
+pubDate: '1990-09-10'
+---
 
 The world exploder
 

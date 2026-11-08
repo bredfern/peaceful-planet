@@ -1,7 +1,8 @@
-+++
-title = "What She Said"
-date = 1990-12-26
-+++
+---
+title: "What She Said"
+description: 'Diary Entry'
+pubDate: '1990-12-26'
+---
 
 The little old lady from Pasadena tapped me on my shoulder.
 

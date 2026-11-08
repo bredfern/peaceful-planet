@@ -1,7 +1,8 @@
-+++
-title = "Next Three Months"
-date = 2026-08-28
-+++
+---
+title: "Next Three Months"
+description: 'Diary Entry'
+pubDate: '2026-08-28'
+---
 
 Here's a reading using the celtic cross layout for the next three months.
 

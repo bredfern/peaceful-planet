@@ -1,7 +1,8 @@
-+++
-title =  "Class Victim"
-date = 1990-09-11
-+++
+---
+title:  "Class Victim"
+description: 'Diary Entry'
+pubDate: '1990-09-11'
+---
 
 The little boy said that someone was at the door, I paid no attention.
 

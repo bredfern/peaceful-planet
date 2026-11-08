@@ -1,7 +1,8 @@
-+++
-title = "Can You Believe"
-date = 1990-05-11
-+++
+---
+title: "Can You Believe"
+description: 'Diary Entry'
+pubDate: '1990-05-11'
+---
 
 George had a vision making peace making.
 

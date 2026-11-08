@@ -1,7 +1,8 @@
-+++
-title = "The Day After Christmas"
-date = 1990-12-25
-+++
+---
+title: "The Day After Christmas"
+description: 'Diary Entry'
+pubDate: '1990-12-25'
+---
 
 _(Chord above line 1: C9)_
 

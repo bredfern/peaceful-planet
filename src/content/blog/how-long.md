@@ -1,7 +1,8 @@
-+++
-title = "How Long"
-date = 2023-03-18
-+++
+---
+title: "How Long"
+description: 'Diary Entry'
+pubDate: '2023-03-18'
+---
 
 When the moon is gone from the sky and the stars themselves appear to be
 bleeding.

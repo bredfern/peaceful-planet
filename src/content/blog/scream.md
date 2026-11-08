@@ -1,18 +1,13 @@
-+++
-title = "Scream!"
-date = 1990-09-20
-+++
+---
+title: "Scream!"
+description: 'Diary Entry'
+pubDate: '1990-09-20'
+---
 
-Someday, everybody
+Someday, everybody screams - Oh' God
 
-screams - Oh' God
+In America Someday, everybody
 
-In America
-
-Someday, everybody
-
-writes their name
-
-on the wall
+writes their name on the wall
 
 In America

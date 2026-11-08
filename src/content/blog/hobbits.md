@@ -1,7 +1,8 @@
-+++
-title = "Hobbit"
-date = 1986-09-02
-+++
+---
+title: "Hobbit"
+description: 'Diary Entry'
+pubDate: '1986-09-02'
+---
 
 Once long ago there lived a hobbit but not an ordinary hobbit, mind you, but a very adventurous one, there is a journal of his adventures.
 

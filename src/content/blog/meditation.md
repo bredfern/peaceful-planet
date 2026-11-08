@@ -1,7 +1,8 @@
-+++
-title = "Meditation"
-date = 2005-03-03
-+++
+---
+title: "Meditation"
+description: 'Diary Entry'
+pubDate: '2005-03-03'
+---
 
 morning 12 AM 
 double wands, relaxation

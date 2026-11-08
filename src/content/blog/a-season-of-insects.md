@@ -1,7 +1,9 @@
-+++
-title = "A Season of Insects"
-date = 2026-08-18
-+++
+---
+title: "A Season of Insects"
+description: 'Diary Entry'
+heroImage: '../../assets/outside.jpg'
+pubDate: '2026-08-18'
+---
 
 This is the hottest time of year, and with the rising heat we're seeing a future that could be devoid of basic things like food and water.
 

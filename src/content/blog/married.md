@@ -1,7 +1,8 @@
-+++
-title = "Married Men"
-date = 1991-03-10
-+++
+---
+title: "Married Men"
+description: 'Diary Entry'
+pubDate: '1991-03-10'
+---
 
 Song of a Married Man
 

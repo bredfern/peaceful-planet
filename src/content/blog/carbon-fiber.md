@@ -1,7 +1,8 @@
-+++
-title = "Carbon Fiber Guitar"
-date = 2026-01-23
-+++
+---
+title: "Carbon Fiber Guitar"
+description: 'Diary Entry'
+pubDate: '2026-01-23'
+---
 
 I got my first guitar made from carbon fiber and for metal these are really godhead, not just stability but a heavier tone than the heavist tone wood. Eyna guitars are basically making the world's best guitars from carbon fiber both electric and acoustic.
 

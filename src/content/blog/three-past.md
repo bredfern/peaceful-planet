@@ -1,7 +1,8 @@
-+++
-title = "Three Past Quaerter"
-date = 2005-03-05
-+++
+---
+title: "Three Past Quaerter"
+description: 'Diary Entry'
+pubDate: '2005-03-05'
+---
 
 SUNDAY
 TIME: 10:40 AM

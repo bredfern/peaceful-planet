@@ -1,7 +1,8 @@
-+++
-title =  "Story of a Human"
-date = 1990-09-15
-+++
+---
+title:  "Story of a Human"
+description: 'Diary Entry'
+pubDate: '1990-09-15'
+---
 
 Woody tried to shake the boy's hand, as it is considered polite to do so, but it was awkward.
 

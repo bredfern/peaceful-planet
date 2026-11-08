@@ -1,7 +1,8 @@
-+++
-title = "Bellflower"
-date = 1990-01-10
-+++
+---
+title: "Bellflower"
+description: 'Diary Entry'
+pubDate: '1990-01-10'
+---
 
 The woman made love To a gasoline pump On the corner of Sunset and Vine,
 

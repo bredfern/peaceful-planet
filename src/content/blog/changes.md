@@ -1,7 +1,8 @@
-+++
-title = "The Changes"
-date = 1991-01-10
-+++
+---
+title: "The Changes"
+description: 'Diary Entry'
+pubDate: '1991-01-10'
+---
 
 As you get older, gravity pulls the corners of your mouth down and down.
 

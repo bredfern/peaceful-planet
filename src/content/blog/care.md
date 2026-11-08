@@ -1,7 +1,8 @@
-+++
-title = "Care"
-date = 1990-11-18
-+++
+---
+title: "Care"
+description: 'Diary Entry'
+pubDate: 1990-11-18'
+---
 
 Should I kiss you with my eyelids?
 

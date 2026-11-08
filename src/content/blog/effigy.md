@@ -1,7 +1,8 @@
-+++
-title="Effigy  of LA"
-date=2005-05-05
-+++
+---
+title: "Effigy  of LA"
+description: 'Diary Entry'
+pubDate: '2005-05-05'
+---
 
 I burnt L.A. in effigy. 
 

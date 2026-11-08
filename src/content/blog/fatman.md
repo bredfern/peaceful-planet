@@ -1,7 +1,8 @@
-+++
-title = "Fatman"
-date = 1991-01-13
-+++
+---
+title: "Fatman"
+description: 'Diary Entry'
+pubDate: '1991-01-13'
+---
 
 Fatman rules the world, Fatman owns my house, Fatman got the mortgage papers Fatman's not my grandfather.
 

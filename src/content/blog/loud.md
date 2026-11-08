@@ -1,7 +1,8 @@
-+++
-title = "Loud"
-date = 2005-03-03
-+++
+---
+title: "Loud"
+description: 'Diary Entry'
+pubDate: '2005-03-03'
+---
 
 borrychem, top of a
 

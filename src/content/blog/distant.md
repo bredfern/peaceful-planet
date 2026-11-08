@@ -1,7 +1,8 @@
-+++
-title = "Staying Distant"
-date = 2020-04-01
-+++
+---
+title: "Staying Distant"
+description: 'Diary Entry'
+pubDate: '2020-04-01'
+---
 
 I hear him the dog
 

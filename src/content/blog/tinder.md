@@ -1,7 +1,8 @@
-+++
-title = "Tinder"
-date = 2025-01-14
-+++
+---
+title: "Tinder"
+description: 'Diary Entry'
+pubDate: '2025-01-14'
+---
 
 Fog in brain Like ceiling fan Wearing out With soot and dust
 

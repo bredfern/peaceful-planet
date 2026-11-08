@@ -1,7 +1,8 @@
-+++
-title = "Friend from Japan"
-date = 1990-09-28
-+++
+---
+title: "Friend from Japan"
+description: 'Diary Entry'
+pubDate: '1990-09-28'
+---
 
 The 18 year old Japanese boy or maybe man, I couldn't tell, stared at his desk intently as I came in to study every crack like a prospector searching for gold every can canyon Sierra mountain of the desk.
 

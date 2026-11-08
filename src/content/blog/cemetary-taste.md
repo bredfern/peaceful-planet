@@ -1,7 +1,8 @@
-+++
-title = "Cemetary Taste"
-date = 1991-02-27
-+++
+---
+title: "Cemetary Taste"
+description: 'Diary Entry'
+pubDate: '1991-02-27'
+---
 
 If you study too much, you're neglecting your education. – Live!
 

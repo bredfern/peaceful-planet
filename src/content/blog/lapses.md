@@ -1,7 +1,8 @@
-+++
-title = "Lapses"
-date = 2005-05-31
-+++
+---
+title: "Lapses"
+description: 'Diary Entry'
+pubDate: '2005-05-31'
+---
 
 Dream: taking over responsibility for lapses.
 

@@ -1,7 +1,8 @@
-+++
-title = "Young to Old"
-date = 2005-03-15
-+++
+---
+title: "Young to Old"
+description: 'Diary Entry'
+pubDate: '2005-03-15'
+---
 
 9:00am
 

@@ -1,7 +1,8 @@
-+++
-title = "Waiting and Waiting"
-date = 2020-03-22
-+++
+---
+title: "Waiting and Waiting"
+description: 'Diary Entry'
+pubDate: '2020-03-22'
+---
 
 A gambler without
 

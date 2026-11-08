@@ -1,7 +1,8 @@
-+++
-title = "Somedays"
-date = 1990-11-14
-+++
+---
+title: "Somedays"
+description: 'Diary Entry'
+pubDate: '1990-11-14'
+---
 
 Somedays it's hot all around the world, The sun burns its little inchworm pixels into my skin.
 

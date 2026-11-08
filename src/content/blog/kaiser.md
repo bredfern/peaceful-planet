@@ -1,7 +1,8 @@
-+++
-title = "Kaiser"
-date = 1990-09-25
-+++
+---
+title: "Kaiser"
+description: 'Diary Entry'
+pubDate: '1990-09-25'
+---
 
 Sherry and Geoff sat In the middle of The wide white room And slow swayed together To the sound of Stevie Nicks on some old Fleetwood Mac record From 1976,
 

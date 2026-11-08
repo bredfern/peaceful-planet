@@ -1,7 +1,8 @@
-+++
-title = "Standard"
-date = 1991-05-13
-+++
+---
+title: "Standard"
+description: 'Diary Entry'
+pubDate: '1991-05-13'
+---
 
 They say that God don't wash his hands
 

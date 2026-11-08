@@ -1,7 +1,8 @@
-+++
-title = "Invisible Lines"
-date = 1990-03-19
-+++
+---
+title: "Invisible Lines"
+description: 'Diary Entry'
+pubDate: '1990-03-19'
+---
 
 Sometimes I get frustrated— There's a woman being raped, down the hall she screams like a bird caught in invisible barbed wire, helpless.
 

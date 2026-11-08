@@ -1,7 +1,8 @@
-+++
-title = "Tai Chi"
-date = 2004-03-25
-+++
+---
+title: "Tai Chi"
+description: 'Diary Entry'
+pubDate: '2004-03-25'
+---
 
 still have some fear,
 

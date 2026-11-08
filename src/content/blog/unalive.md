@@ -1,7 +1,8 @@
-+++
-title = "Unalive"
-date = 2025-01-10
-+++
+---
+title: "Unalive"
+description: 'Diary Entry'
+pubDate: '2025-01-10'
+---
 
 The rich people say we lazy and stupid But we never got the advantages
 that they did I had to sell dope to keep from unalive Three jobs at the

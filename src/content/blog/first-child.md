@@ -1,7 +1,8 @@
-+++
-title = "First Child"
-date = 1990-04-01
-+++
+---
+title: "First Child"
+description: 'Diary Entry'
+pubDate: '1990-04-01'
+---
 
 Imagine me, First child of my mother! 
 

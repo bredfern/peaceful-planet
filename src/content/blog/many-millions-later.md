@@ -1,7 +1,8 @@
-+++
-title = "Many Millions Later"
-date = 2021-05-06
-+++
+---
+title: "Many Millions Later"
+description: 'Diary Entry'
+pubDate: '2021-05-06'
+---
 
 So many dead even as things slow down here its hard to feel safe when it continues to explode elsewhere.
 

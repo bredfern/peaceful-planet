@@ -1,7 +1,8 @@
-+++
-title = "Goodbye, Dad"
-date = 2020-03-21
-+++
+---
+title: "Goodbye, Dad"
+description: 'Diary Entry'
+pubDate: '2020-03-21'
+---
 
 My father was born in 1941, right at the start of world world 2. He passed on 3/21/2020 at 645pm.
 

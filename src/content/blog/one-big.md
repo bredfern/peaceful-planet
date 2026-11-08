@@ -1,7 +1,8 @@
-+++
-title = "One Big"
-date = 1990-09-25
-+++
+---
+title: "One Big"
+description: 'Diary Entry'
+pubDate: '1990-09-25'
+---
 
 One big ball Of bright red hair Hurtles top speed Across the parking lot "Die fuckers, die, die, die."
 

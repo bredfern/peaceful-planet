@@ -1,7 +1,8 @@
-+++
-title = "Truncation"
-date = 1990-09-13
-+++
+---
+title: "Truncation"
+description: 'Diary Entry'
+pubDate: '1990-09-13'
+---
 
 He had a head
 

@@ -1,7 +1,8 @@
-+++
-title = "Getting High"
-date = 1990-09-12
-+++
+---
+title: "Getting High"
+description: 'Diary Entry'
+pubDate: '1990-09-12'
+---
 
 They don't have TP in the Soviet Union, only newspapers.
 

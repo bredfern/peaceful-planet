@@ -1,7 +1,8 @@
-+++
-title = "Robert"
-date = 1990-12-26
-+++
+---
+title: "Robert"
+description: 'Diary Entry'
+pubDate: '1990-12-26'
+---
 
 Hello, I'm Robert, and I am a flame.
 

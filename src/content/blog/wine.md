@@ -1,7 +1,8 @@
-+++
-title = "Wine"
-date = 1990-03-02
-+++
+---
+title: "Wine"
+description: 'Diary Entry'
+pubDate: '1990-03-02'
+---
 
 In the end you take your stand alone. no one gives a shit. The eye of the world all fixed on self. Your lung a deep black hole in my own chest.
 

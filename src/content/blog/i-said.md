@@ -1,7 +1,8 @@
-+++
-title = "I Said"
-date = 1990-09-18
-+++
+---
+title: "I Said"
+description: 'Diary Entry'
+pubDate: '1990-09-18'
+---
 
 I said
 

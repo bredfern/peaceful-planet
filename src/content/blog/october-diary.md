@@ -1,7 +1,8 @@
-+++
-title = "October Diary"
-date = 1986-10-13
-+++
+---
+title: "October Diary"
+description: 'Diary Entry'
+pubDate: '1986-10-13'
+---
 
 Well today was pretty uneventfull. The only things that happened were that I got scared out of my boots when I saw a snake. I tried to kill it, but never found it. I also got my part for drama and I'm an Irish boy.
 

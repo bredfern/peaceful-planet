@@ -1,7 +1,8 @@
-+++
-title = "A Story"
-date = 1991-08-25
-+++
+---
+title: "A Story"
+description: 'Diary Entry'
+pubDate: '1991-08-25'
+---
 
 On the Beach, Why am I here? To get a tan? To praise the sun or the scratchy sand that beneath buttocks, or to praise the waves?
 

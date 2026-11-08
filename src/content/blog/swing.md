@@ -1,7 +1,8 @@
-+++
-title = "Swing"
-date = 1990-09-11
-+++
+---
+title: "Swing"
+description: 'Diary Entry'
+pubDate: '1990-09-11'
+---
 
 As they get older,
 

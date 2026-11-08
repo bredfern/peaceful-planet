@@ -1,8 +1,8 @@
-
-+++
-title = "Generation Ship"
-date = 2020-03-02
-+++
+---
+title: "Generation Ship"
+description: 'Diary Entry'
+pubDate: '2020-03-02'
+---
 
 It was one of those cloudy nights, it was not unusual to never see any stars here. It created the illusion in this city that one was living inside a dome.
 

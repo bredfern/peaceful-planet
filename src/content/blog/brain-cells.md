@@ -1,7 +1,8 @@
-+++
-title = "Brain Cells"
-date = 1990-10-18
-+++
+---
+title: "Brain Cells"
+description: 'Diary Entry'
+pubDate: '1990-10-18'
+---
 
 Today, 3 drunken sorority girls warned me of the danger of marijuana.
 

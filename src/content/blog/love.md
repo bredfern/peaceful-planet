@@ -1,7 +1,8 @@
-+++
-title = "Love"
-date = 2024-08-15
-+++
+---
+title: "Love"
+description: 'Diary Entry'
+pubDate: '2024-08-15'
+---
 
 For those bad days,
 You keep them from getting worse 

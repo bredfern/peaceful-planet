@@ -1,7 +1,8 @@
-+++
-title = "Lean Meats"
-date = 2025-01-20
-+++
+---
+title: "Lean Meats"
+description: 'Diary Entry'
+pubDate: '2025-01-20'
+---
 
 A pipe that smokes itself Clocks so exhausted they droop Dying, time
 itself has expired

@@ -1,7 +1,8 @@
-+++
-title = "Explodes"
-date = 2005-08-25
-+++
+---
+title: "Explodes"
+description: 'Diary Entry'
+pubDate: '2005-08-25'
+---
 
 The electricity sizzled and popped, as the huge spark shot up through metal tires, and into the open air, exploding into a brilliant green blue flash. Wheels spun, lights flashed on, and the machine was on. The scientist sitting at the controls flipped a switch, and was instantly transported across the lab basement floor.
 

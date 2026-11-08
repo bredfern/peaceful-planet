@@ -1,7 +1,8 @@
-+++
-title = "Reagan's Colon"
-date = 1990-09-23
-+++
+---
+title: "Reagan's Colon"
+description: 'Diary Entry'
+pubDate: '1990-09-23'
+---
 
 Smimmering in light profane
 

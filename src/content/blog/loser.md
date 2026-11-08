@@ -1,7 +1,8 @@
-+++
-title = "Loser"
-date = 1990-11-21
-+++
+---
+title: "Loser"
+description: 'Diary Entry'
+pubDate: '1990-11-21'
+---
 
 I am an English major, welfare pays too little
 

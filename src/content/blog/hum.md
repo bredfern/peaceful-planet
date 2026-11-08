@@ -1,7 +1,8 @@
-+++
-title = "Hum Hum Mantra"
-date = 2005-03-04
-+++
+---
+title: "Hum Hum Mantra"
+description: 'Diary Entry'
+pubDate: '2005-03-04'
+---
 
 Evening 8:30pm breath of fire, HUM I HUM mantra
 

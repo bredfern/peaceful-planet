@@ -1,7 +1,8 @@
-+++
-title = "The Shadows"
-date = 1990-09-02
-+++
+---
+title: "The Shadows"
+description: 'Diary Entry'
+pubDate: '1990-09-02'
+---
 
 Jason was lost in
 

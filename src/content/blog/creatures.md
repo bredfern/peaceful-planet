@@ -1,7 +1,8 @@
-+++
-title = "Creatures Song"
-date = 2024-03-10
-+++
+---
+title: "Creatures Song"
+description: 'Diary Entry'
+pubDate: '2024-03-10'
+---
 
 We are the creatures of midnight.
 

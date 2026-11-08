@@ -1,7 +1,8 @@
-+++
-title = "Wow"
-date = 1990-11-19
-+++
+---
+title: "Wow"
+description: 'Diary Entry'
+pubDate: '1990-11-19'
+---
 
 **I**
 

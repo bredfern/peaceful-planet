@@ -1,7 +1,8 @@
-+++
-title = "Six Day Creation"
-date = 1990-09-22
-+++
+---
+title: "Six Day Creation"
+description: 'Diary Entry'
+pubDate: '1990-09-22'
+---
 
 Nothing left to believe in but my worn gym shoes
 

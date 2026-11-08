@@ -1,7 +1,8 @@
-+++
-title = "Fiendish Desires"
-date = 2025-02-10
-+++
+---
+title: "Fiendish Desires"
+description: 'Diary Entry'
+pubDate: '2025-02-10'
+---
 
 the fiendish desires of a single solitary piece of fungus sproating from
 the side of a rotten old log

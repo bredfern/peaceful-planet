@@ -1,7 +1,8 @@
-+++
-title = "Mean Color-Guard Grandpa"
-date = 1991-01-23
-+++
+---
+title: "Mean Color-Guard Grandpa"
+description: 'Diary Entry'
+pubDate: '1991-01-23'
+---
 
 When Grandpa Joe was about 85 he got mean.
 

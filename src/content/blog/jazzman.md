@@ -1,7 +1,8 @@
-+++
-title = "Jazzman"
-date = 1994-03-05
-+++
+---
+title: "Jazzman"
+description: 'Diary Entry'
+pubDate: '1994-03-05'
+---
 
 Since the time that  
 they were 9 years  

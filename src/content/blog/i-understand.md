@@ -1,7 +1,8 @@
-+++
-title = "I Understand"
-date = 1991-02-27
-+++
+---
+title: "I Understand"
+description: 'Diary Entry'
+pubDate: '1991-02-27'
+---
 
 I understand it, The junkey is the most profound expression of desperation.
 

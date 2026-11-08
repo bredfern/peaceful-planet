@@ -1,7 +1,8 @@
-+++
-title = "Hygieia"
-date = 1990-09-28
-+++
+---
+title: "Hygieia"
+description: 'Diary Entry'
+pubDate: '1990-09-28'
+---
 
 I hang my keys from my belt proudly, like a status symbol, like Mercedes Benz, like BMW, like Rolex until they sound my fat thighs
 

@@ -1,7 +1,8 @@
-+++
-title="Vampire hunter"
-date=1998-12-14
-+++
+---
+title: "Vampire hunter"
+description: 'Diary Entry'
+pubDate: '1998-12-14'
+---
 
 hunt the vampire
 called the vatican

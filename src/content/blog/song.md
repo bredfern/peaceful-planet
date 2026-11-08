@@ -1,7 +1,8 @@
-+++
-title = "The Song of Birds"
-date = 2020-03-18
-+++
+---
+title: "The Song of Birds"
+description: 'Diary Entry'
+pubDate: '2020-03-18'
+---
 
 Staying in place is easy for a writer, its our natural inclination not to go out.
 

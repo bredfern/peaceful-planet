@@ -1,7 +1,8 @@
-+++
-title = "Some Fear"
-date = 2004-03-25
-+++
+---
+title: "Some Fear"
+description: 'Diary Entry'
+pubDate: '2004-03-25'
+---
 
 I still have some fear, suppression, oppression
 

@@ -1,7 +1,8 @@
-+++
-title = "Human Zoo"
-date = 2025-01-09
-+++
+---
+title: "Human Zoo"
+description: 'Diary Entry'
+pubDate: '2025-01-09'
+---
 
 They said an angry mob is hungry this ai is eating away at me no more
 work to make any money only criminals can win in this situation

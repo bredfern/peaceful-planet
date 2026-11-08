@@ -1,7 +1,8 @@
-+++
-title = "Raining"
-date = 2020-03-23
-+++
+---
+title: "Raining"
+description: 'Diary Entry'
+pubDate: '2020-03-23'
+---
 
 Sun blinking through clouds
 

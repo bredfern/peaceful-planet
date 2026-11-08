@@ -1,7 +1,8 @@
-+++
-title="Steal Your Face"
-date="2023-07-21"
-+++
+---
+title: "Steal Your Face"
+description: 'Diary Entry'
+pubDate: "2023-07-21"
+---
 
 What are some of the issues that are driving the current writer and actor's strikes?
 

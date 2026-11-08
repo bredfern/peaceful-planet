@@ -1,7 +1,8 @@
-+++
-title = "The Witch"
-date = 1991-02-25
-+++
+---
+title: "The Witch"
+description: 'Diary Entry'
+pubDate: '1991-02-25'
+---
 
 As the wItch shoved me into the oven, I realized just what she meant when she said: "We must to fatten you up."
 

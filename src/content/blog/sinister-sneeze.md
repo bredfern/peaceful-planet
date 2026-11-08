@@ -1,7 +1,8 @@
-+++
-title = "Sinister Sneeze"
-date = 2020-03-18
-+++
+---
+title: "Sinister Sneeze"
+description: 'Diary Entry'
+pubDate: '2020-03-18'
+---
 
 An ocean trash boat
 

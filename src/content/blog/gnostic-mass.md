@@ -1,7 +1,8 @@
-+++
-title = "Sunday Gnostic Mass"
-date = 2005-03-31
-+++
+---
+title: 'Happy Gnosyic Mass'
+description: 'Diary Entry'
+pubDate: '2005-03-31'
+---
 
 Dream taking over responsibility for lapses. 
 Haven't been able to do any home rituals, 

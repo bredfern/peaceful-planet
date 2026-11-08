@@ -1,7 +1,8 @@
-+++
-title = "Only Daughter"
-date = 2025-01-18
-+++
+---
+title: "Only Daughter"
+description: 'Diary Entry'
+pubDate: '2025-01-18'
+---
 
 \[Verse 1\] Oh, my daughter Why did you run away from me Knowing the
 daughter Joined a husband in the desert sea My only daughter Why did you

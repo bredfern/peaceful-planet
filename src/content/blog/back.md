@@ -1,7 +1,8 @@
-+++
-title = "Back"
-date = 1987-02-24
-+++
+---
+title : "Back"
+description : 'Diary Entry'
+pubDate : '1987-02-24'
+---
 
 I haven't written for a long time, but I want to record the event that happened tonight.
 

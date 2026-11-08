@@ -1,18 +1,13 @@
-+++
-title = "Short Bread"
-date = 1990-11-08
-+++
+---
+title: "Short Bread"
+description: 'Diary Entry'
+pubDate: '1990-11-08'
+---
 
-They cut the sheet
+They cut the sheet Of short-bread into
 
-Of short-bread into
+square little cookies Each the same as
 
-square little cookies
-
-Each the same as
-
-The one right next
-
-To it — symmetry
+The one right next To it — symmetry
 
 — ah perfection.

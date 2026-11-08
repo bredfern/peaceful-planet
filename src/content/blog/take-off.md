@@ -1,7 +1,8 @@
-+++
-title = "Take Off"
-date = 1990-11-05
-+++
+---
+title: "Take Off"
+description: 'Diary Entry'
+pubDate: '1990-11-05'
+---
 
 Sometimes she'd scream in the middle
 

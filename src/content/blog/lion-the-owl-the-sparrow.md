@@ -1,7 +1,8 @@
-+++
-title = "Lion, the Owl and the Sparrow"
-date = 1990-03-08
-+++
+---
+title : "Lion, the Owl and the Sparrow"
+description: 'Diary Entry'
+pubDate: '1990-03-08'
+---
 
 Be more forgiving for a knight – even a knight's marriage is pre-arranged (son of minor noble)
 

@@ -1,7 +1,8 @@
-+++
-title = "Blues for Gary"
-date = 2026-08-24
-+++
+---
+title: "Blues for Gary"
+description: 'Diary Entry'
+pubDate: '2026-08-24'
+---
 
 Gary sold his boa constrictor for an ounce of speed 
 

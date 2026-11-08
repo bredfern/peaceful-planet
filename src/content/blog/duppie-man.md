@@ -1,7 +1,8 @@
-+++
-title = "Duppie Man"
-date = 2025-02-19
-+++
+---
+title: "Duppie Man"
+description: 'Diary Entry'
+pubDate: '2025-02-19'
+---
 
 Down in the swamp where the dark things grow Down in the deeps where
 nobody knows That's where the duppie man goes That's where the duppie

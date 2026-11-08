@@ -1,7 +1,8 @@
-+++
-title = "Alex"
-date = 1986-11-18
-+++
+---
+title : "Alex"
+description : 'Diary Entry'
+pubDate : '1986-11-18'
+---
 
 Later that night Alex and I stayed up until 1:00 watching movies. The next day I didn't do much except sleep and water my grandparents garden.  I went to mass that night.
 

@@ -1,7 +1,8 @@
-+++
-title = "Genesis Passing"
-date = 2020-03-16
-+++
+---
+title: "Genesis Passing"
+description: 'Diary Entry'
+pubDate: '2020-03-16'
+---
 
 Back in 2017 I was able to see one of her last Psychic TV shows. Compared to say the Rolling Stones it was a small venue but the music was amazing and the light show and video.
 

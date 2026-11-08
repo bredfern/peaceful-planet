@@ -1,7 +1,8 @@
-+++
-title = "Timothy Leary"
-date = 1990-10-18
-+++
+---
+title: "Timothy Leary"
+description: 'Diary Entry'
+pubDate: '1990-10-18'
+---
 
 I had a strange day today. This morning, there was an earthquake while I was brushing my teeth.
 

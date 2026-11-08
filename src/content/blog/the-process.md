@@ -1,7 +1,8 @@
-+++
-title = "The Process"
-date = 2026-08-21
-+++
+---
+title: "The Process"
+description: 'Diary Entry'
+pubDate: '2026-08-21'
+---
 
 Since the emergence of the figure of Richard Nixon we have also seen a concordant rise of chaos, poverty, misery and violence world wide. Such things as the "war on drugs" enabled the use of violence all around the world.
 

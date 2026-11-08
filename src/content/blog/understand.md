@@ -1,7 +1,8 @@
-+++
-title = "Understandl"
-date = 1990-03-27
-+++
+---
+title: "Understandl"
+description: 'Diary Entry'
+pubDate: '1990-03-27'
+---
 
 I completely understand it now, there has never been much respect for the spoken word. 
 

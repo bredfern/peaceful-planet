@@ -1,7 +1,8 @@
-+++
-title = "On It"
-date = 1990-12-27
-+++
+---
+title: "On It"
+description: 'Diary Entry'
+pubDate: '1990-12-27'
+---
 
 Some **D** people get lots
 

@@ -1,7 +1,8 @@
-+++
-title = "Nothing"
-date = 2025-01-27
-+++
+---
+title: "Nothing"
+description: 'Diary Entry'
+pubDate: '2025-01-27'
+---
 
 I saw the old spider On the line today Weaving that web Waiting for food
 

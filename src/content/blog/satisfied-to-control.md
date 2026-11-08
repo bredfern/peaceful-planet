@@ -1,7 +1,8 @@
-+++
-title = "Satisfied to Control"
-date = 1991-05-13
-+++
+---
+title:  "Satisfied to Control"
+description: 'Diary Entry'
+pubDate: '1991-05-13'
+---
 
 I realize now what a formative moment that battle w/ ETS was for me.
 

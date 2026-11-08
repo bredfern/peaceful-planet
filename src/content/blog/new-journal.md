@@ -1,7 +1,8 @@
-+++
-title = "80s Text"
-date = 1986-10-12
-+++
+---
+title: "80s Text"
+description: 'Diary Entry'
+pubDate: '1986-10-12'
+---
 
 Well, I decided to start a journal today. Strange things are  
 happening to me – I mean on Friday this Korean girl  

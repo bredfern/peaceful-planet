@@ -1,7 +1,8 @@
-+++
-title = "Long Knives"
-date = 1990-09-20
-+++
+---
+title: "Long Knives"
+description: 'Diary Entry'
+pubDate: '1990-09-20'
+---
 
 Sometimes I wonder if its you that's making me stupid make me forget where I put my car keys make me drive you to all the way to the beach, then swim around and go home without even getting wet.
 

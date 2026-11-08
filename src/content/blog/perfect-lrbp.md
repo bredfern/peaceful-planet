@@ -1,7 +1,8 @@
-+++
-title = "Perfected the LRBP"
-date = 2005-03-21
-+++
+---
+title: "Perfected the LRBP"
+description: 'Diary Entry'
+pubDate: '2005-03-21'
+---
 
 11:50 AM L.R.B.P.
 

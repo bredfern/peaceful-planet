@@ -1,7 +1,8 @@
-+++
-title = "Talking Bones"
-date = 2006-09-05 
-+++
+---
+title: "Talking Bones"
+description: 'Diary Entry'
+pubDate: '2006-09-05'
+---
 
 Talking Bones
 

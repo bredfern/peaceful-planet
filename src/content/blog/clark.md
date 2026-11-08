@@ -1,7 +1,8 @@
-+++
-title = "Clark"
-date = 1990-09-28
-+++
+---
+title: "Clark"
+description: 'Diary Entry'
+pubDate: '1990-09-28'
+---
 
 Clark said that Mary was homely, but wonderful. 
 

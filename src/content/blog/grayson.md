@@ -1,7 +1,8 @@
-+++
-title = "Grayson"
-date = 1987-02-24
-+++
+---
+title: "Grayson"
+description: 'Diary Entry'
+pubDate: '1987-02-24'
+---
 
 Grayson was an Asper, a person who is genetically engineered to use Psi powers. He was fleeing from Earth.
 

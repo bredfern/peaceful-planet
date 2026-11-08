@@ -1,7 +1,8 @@
-+++
-title = "Together Tuesday"
-date = 1990-10-01
-+++
+---
+title: "Together Tuesday"
+description: 'Diary Entry'
+pubDate: '1990-10-01'
+---
 
 I'm sex, the girl screamed like a dog, barking and growling, faucets from the bottom O father / son / & spirit call the daughters down, wet thigh from the thrust,
 

@@ -1,7 +1,8 @@
-+++
-title = "Benny"
-date = 1990-11-13
-+++
+---
+title : "Benny"
+description: 'Diary Entry'
+pubDate: '1990-11-13'
+---
 
 Benny looked up from his hands, crying.
 

@@ -1,7 +1,8 @@
-+++
-title = "Satan Wraps"
-date = 1990-03-02
-+++
+---
+title: "Satan Wraps"
+description: 'Diary Entry'
+pubDate: '1990-03-02'
+---
 
 The Straight Man, the character actor sits alone, masturbating, a piece saran-wrap is spread out across his lap and part of the sofa, he doesn't want to leave a stain.
 

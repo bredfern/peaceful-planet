@@ -1,7 +1,8 @@
-+++
-title = "Baseball Bats"
-date = 1986-09-03
-+++
+---
+title: "Baseball Bats"
+description: 'Diary Entry'
+pubDate: 1986-09-03
+---
 
 There was once a fat gnome named Matt 
 

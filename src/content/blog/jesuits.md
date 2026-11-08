@@ -1,7 +1,8 @@
-+++
-title = "Jesuits"
-date = 1990-12-22
-+++
+---
+title: "Jesuits"
+description: 'Diary Entry'
+pubDate: '1990-12-22'
+---
 
 I remember the day I gave up. I tried to be a good Catholic, I really did. When I was thirteen I had wanted to be a priest even, and not just some run of the mill parish priest, but a Jesuit!
 

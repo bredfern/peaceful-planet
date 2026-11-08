@@ -1,7 +1,8 @@
-+++
-title = "Old Man"
-date = 1990-11-19
-+++
+---
+title: "Old Man"
+description: 'Diary Entry'
+pubDate: '1990-11-19'
+---
 
 The old man said "I remember, I am one' biker girls, dat used to pick up beer bottles and crate for us, no hands, no hands."
 

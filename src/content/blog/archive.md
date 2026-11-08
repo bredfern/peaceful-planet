@@ -1,7 +1,8 @@
-+++
-title = "No Discusion on Ai"
-date = 2024-09-17
-+++
+---
+title : "No Discusion on Ai"
+description : 'Diary Entry'
+pubDate : '2024-09-17'
+---
 
 As a member of what the Boomers sneeringly called "genX" I am used to having my rights
 violated, sometimes in the most vicious ways one could imagine.

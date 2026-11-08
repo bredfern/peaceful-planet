@@ -1,7 +1,8 @@
-+++
-title = "Waiting for the Tsumani"
-date = 2020-03-17
-+++
+---
+title: "Waiting for the Tsumani"
+description: 'Diary Entry'
+pubDate: '2020-03-17'
+---
 
 The old cliche comes to mind - the calm before the storm.
 

@@ -1,7 +1,8 @@
-+++
-title = "Believe"
-date = 1990-09-12
-+++
+---
+title: "Believe"
+description: 'Diary Entry'
+pubDate: '1990-09-12'
+---
 
 She said that she liked strawberry ice cream, and old Neal Young albums from the 1970s, but she said she was not beautiful.
 

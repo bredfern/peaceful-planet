@@ -1,7 +1,8 @@
-+++
-title = "Fireman"
-date = 1991-02-24
-+++
+---
+title: "Fireman"
+description: 'Diary Entry'
+pubDate: '1991-02-24'
+---
 
 Everybody's got just one thing to make them happy
 

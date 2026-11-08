@@ -1,8 +1,8 @@
-
-+++
-title = "Barbados"
-date = 2005-03-20
-+++
+---
+title : "Barbados"
+description : 'Diary Entry'
+pubDate : '2005-03-20'
+---
 
 Sun, morning Heard loud sound from SUV at 2 AM, then it goes off, did LRBP LRBP to ward off, after hit the deck for a while.
 

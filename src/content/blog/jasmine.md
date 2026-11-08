@@ -1,7 +1,8 @@
-+++
-title = "Jasmine"
-date = 2025-01-27
-+++
+---
+title: "Jasmine"
+description: 'Diary Entry'
+pubDate: '2025-01-27'
+---
 
 As the jasmine blooms The night is wild again I hear your voice in the
 distance

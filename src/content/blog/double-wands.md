@@ -1,7 +1,8 @@
-+++
-title = "Double Wands"
-date = 2005-03-03
-+++
+---
+title: "Double Wands"
+description: 'Diary Entry'
+pubDate: '2005-03-03'
+---
 
 Morning 12 AM – double wands, relaxation
 

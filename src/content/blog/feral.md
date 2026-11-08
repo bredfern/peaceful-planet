@@ -1,7 +1,8 @@
-+++
-title = "Feral"
-date = 1991-03-04
-+++
+---
+title: "Feral"
+description: 'Diary Entry'
+pubDate: '1991-03-04'
+---
 
 Five million die for God, we could all be lost for Ideology.
 

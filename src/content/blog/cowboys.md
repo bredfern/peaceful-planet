@@ -1,7 +1,8 @@
-+++
-title = "Commie Cowboy"
-date = 1990-12-03
-+++
+---
+title: "Commie Cowboy"
+description: 'Diary Entry'
+pubDate: '1990-12-03'
+---
 
 I was a Communist Cowboy, Ridin' the wide open range.
 

@@ -1,7 +1,8 @@
-+++
-title = "For Grandfather Redfern, Doctor"
-date = 1991-06-02
-+++
+---
+title: "For Grandfather Redfern, Doctor"
+description: 'Diary Entry'
+pubDate: '1991-06-02'
+---
 
 Your house was always full of pills and always immaculate elan.
 

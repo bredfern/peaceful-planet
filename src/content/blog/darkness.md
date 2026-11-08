@@ -1,6 +1,7 @@
-+++
-title = "Darkness"
-date = 1990-04-24
+---
+title: "Darkness"
+description: 'Diary Entry'
+pubDate: '1990-04-24'
 +++
 
 There's something special about darkness.

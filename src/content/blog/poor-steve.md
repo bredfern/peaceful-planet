@@ -1,7 +1,8 @@
-+++
-title = "Poor Steve"
-date = 1990-08-19
-+++
+---
+title: "Poor Steve"
+description: 'Diary Entry'
+pubDate: '1990-08-19'
+---
 
 Poor Steve,
 

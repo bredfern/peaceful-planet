@@ -1,7 +1,8 @@
-+++
-title = "Heat"
-date = 2025-03-27
-+++
+---
+title: "Heat"
+description: 'Diary Entry'
+pubDate: '2025-03-27'
+---
 
 The oasis is desicated No water for years
 
