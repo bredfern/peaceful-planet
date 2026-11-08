@@ -1,6 +1,7 @@
 ---
 title: "Carbon Fiber Guitar"
 description: 'Diary Entry'
+heroImage: '../../assets/outside.jpg'
 pubDate: '2026-01-23'
 ---
 
